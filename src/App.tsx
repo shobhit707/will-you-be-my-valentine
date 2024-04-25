@@ -14,6 +14,7 @@ export default function Page() {
     const phrases = [
       "No",
       "Are you sure?",
+       "Badmosi na kar?",
       "What if I asked really nicely?",
       "Pretty please",
       "With a chocolate rice cake on top",
@@ -22,7 +23,7 @@ export default function Page() {
       "But :*(",
       "I am going to die",
       "Yep im dead",
-      "ok ur talking to nathan's ghost",
+      "ok ur talking to shobhi's ghost",
       "please babe",
       ":((((",
       "PRETTY PLEASE",
@@ -46,7 +47,7 @@ export default function Page() {
             className="h-[200px]"
             src="https://gifdb.com/images/high/cute-love-bear-roses-ou7zho5oosxnpo6k.gif"
           />
-          <h1 className="my-4 text-4xl">Will you be my Valentine?</h1>
+          <h1 className="my-4 text-4xl">Will you be my Catu Car?</h1>
           <div className="flex items-center">
             <button
               className={`mr-4 rounded bg-green-500 px-4 py-2 font-bold text-white hover:bg-green-700`}
